@@ -21,7 +21,7 @@ A través de un análisis de datos y la visualización de resultados mediante Po
 
 # Queries, scripts de Python y otros recursos empleados.
   
-[Scripts de Python en Colab](https://github.com/valenmesa/BootcampADG2/blob/main/Limpieza_Datos.ipynb)
+## [Scripts de Python en Colab](https://github.com/valenmesa/BootcampADG2/blob/main/Limpieza_Datos.ipynb)
 
 
 * Importar libreria requerida  <br>
@@ -153,5 +153,32 @@ df.dtypes
 ```
 df.to_csv('Tours_Taylor.csv', index=False) 
 ```
+## Medidas con DAX
+
+```
+TotalIngresos = SUM(Taylor_Tours[Ingresos])
+Total_Entradas_Vendidas = SUM(Taylor_Tours[Entradas_vendidas])
+Total_Entradas_Disponibles = SUM(Taylor_Tours[Entradas_disponibles])
+Participacion_Ganancia = DIVIDE(SUM(Taylor_Tours[Ingresos]),CALCULATE(SUM(Taylor_Tours[Ingresos]),ALLSELECTED
+Ingreso por entrada = [TotalIngresos]/[Total_Entradas_Vendidas]
+% Entradas = Taylor_Tours[Total_Entradas_Vendidas]/[Total_Entradas_Disponibles]
+```
+```
+Imagenes = 
+SWITCH(
+    SELECTEDVALUE(Taylor_Tours[Tour]),
+    "Reputation Stadium Tour",
+    "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SIHUMDV2NNDRTOVRRL23AVVGFQ.jpg",
+    "The 1989 World Tour",
+    "https://e.radio-grpp.io/normal/2015/10/22/1521182.jpg",
+    "The Red Tour",
+    "https://i.ytimg.com/vi/UcFIw85wGiI/sddefault.jpg",
+    "Speak Now World Tour",
+    "https://i.ytimg.com/vi/nTO3ZiK1pBE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyhrMA8=&rs=AOn4CLAm5RX1dupA6t84NYdc4JoMdtppaw",
+    "Fearless Tour",
+    "https://img.thetedellis.com/v7/thetedellis.com/wp-content/uploads/2021/02/BlogHeader1200x600px1_c140211b1974f5f298759ddbdfff80c8_2000.jpeg?org_if_sml=0",
+    "https://images.ecestaticos.com/krUnZU_tvCc1G_aBFBYHLjoG3eA=/52x0:2240x1641/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F683%2F683%2F977%2F683683977e4177c3e8a76d95ed9298d2.jpg")
+```
+
 - Enlace o referencia al dataset elegido.
 - Documentación del desarrollo de su proyecto (tecnologías utilizadas y cualquier información relevante), aprendizajes obtenidos y futuras oportunidades de investigación. 
