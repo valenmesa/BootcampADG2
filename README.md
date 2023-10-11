@@ -222,5 +222,4 @@ Para la creación de este proyecto se llevo a cabo una serie de pasos:
 Este proyecto me ha brindado la oportunidad de mejorar mis habilidades en análisis de datos ya que mostró las falencias que tenía y mediante la experimentación y la investigación logre sobrepasar esa barrera. A lo largo de este proyecto logre analizar de una forma más detallada un set de datos, aprender más códigos para la limpieza de datos con pandas y su uso, además de poder manejar las herramientas de Power Bi con más familiaridad y generar más codigos en DAX que me ayudó a fomentar la logica.
 
 # Futuras oportunidades de investigación. 
-
-En un futuro con más experiencia adquirida, podré abordar el conjunto de datos desde una perspectiva diferente y obtener insights aún más sólidos, además espero poder integrar más datos para que el análisis este actualizado y sea más preciso.
+En un futuro con más experiencia adquirida, podré abordar el conjunto de datos desde una perspectiva diferente y obtener resultados aún más sólidos, además espero poder integrar más datos para que el análisis este actualizado y así facilitar una correcta toma de decisiones basadas en dichos datos.
