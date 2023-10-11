@@ -1,6 +1,6 @@
 # Proyecto final Ingresos de los Tours de Taylor Switf
 
-Quiero dar la bienvenida a mi proyecto final del Bootcamp de Análisis de Datos en Crack the Code y expresar mi profundo agradecimiento a Inchcape Digital por brindarme esta valiosa oportunidad de aprendizaje. Este proyecto representa el punto culminante de mi experiencia de aprendizaje, donde he aplicado mis habilidades en Power BI y Colab para abordar desafíos complejos de análisis de datos. ¡Bienvenido a este viaje de descubrimiento!
+Quiero dar la bienvenida a mi proyecto final del Bootcamp de Análisis de Datos en Crack the Code y expresar mi agradecimiento a Inchcape Digital por brindarme esta oportunidad de aprendizaje. Este proyecto representa un logro de mi proceso de aprendizaje, donde he aplicado mis habilidades en Power BI y Colab para abordar desafíos de análisis de datos. ¡Bienvenido a este viaje de descubrimiento!
 
 # El fenómeno de los conciertos de Taylor Swift
 
