@@ -180,5 +180,47 @@ SWITCH(
     "https://images.ecestaticos.com/krUnZU_tvCc1G_aBFBYHLjoG3eA=/52x0:2240x1641/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F683%2F683%2F977%2F683683977e4177c3e8a76d95ed9298d2.jpg")
 ```
 
-- Enlace o referencia al dataset elegido.
-- Documentación del desarrollo de su proyecto (tecnologías utilizadas y cualquier información relevante), aprendizajes obtenidos y futuras oportunidades de investigación. 
+# Enlace o referencia al dataset elegido.
+
+El dataset que elegí fue [Taylor Concert Tours 🌎: Impact on Attendance & 💰](https://www.kaggle.com/datasets/gayu14/taylor-concert-tours-impact-on-attendance-and) de Kaggle que contiene información sobre varios conciertos celebrados durante diferentes giras. Este dataset contiene 445 filas y 7 columnas las cuales son:
+
+- Ciudad: El nombre de la ciudad donde se realizó el concierto.
+- País: El nombre del país donde se encuentra la ciudad.
+- Lugar: El nombre del lugar donde se realizó el concierto.
+- Acto(s) de apertura: Los nombres de los artistas o bandas que actuaron como acto de apertura antes que la intérprete principal.
+- Asistencia (entradas vendidas/disponibles): El número de entradas vendidas y el número total de entradas disponibles para el concierto.
+- Ingresos: Los ingresos generados por la venta de entradas durante el concierto.
+- Gira: El nombre de la gira de conciertos asociada con el evento.
+
+
+# Documentación del desarrollo de su proyecto
+
+### Herramientas Utilizadas
+- Kaggle
+- Google Colab
+- Power BI Desktop
+- Google Slides
+- GitHub
+
+Para la creación de este proyecto se llevo a cabo una serie de pasos:
+
+1. Elección de la base de datos de la plataforma kaggle.
+2. Descarga de la base de datos en formato csv.
+3. Importación de la base de datos en colab.
+4. Limpieza de datos en Colab mediante Python y Pandas.
+5. Descarga de la base de datos organizada.
+6. Importación de la base de datos en Power BI Desktop.
+7. Transformación de datos en Power Query.
+8. Generar graficas mediante Power Bi.
+9. Generar conclusiones.
+10. Realizar Google Slides.
+11. Agregar archivos a GitHub.
+12. Realizar archivo Readme.
+
+# Aprendizajes obtenidos 
+
+Este proyecto me ha brindado la oportunidad de mejorar mis habilidades en análisis de datos ya que mostró las falencias que tenía y mediante la experimentación y la investigación logre sobrepasar esa barrera. A lo largo de este proyecto logre analizar de una forma más detallada un set de datos, aprender más códigos para la limpieza de datos con pandas y su uso, además de poder manejar las herramientas de Power Bi con más familiaridad y generar más codigos en DAX que me ayudó a fomentar la logica.
+
+# Futuras oportunidades de investigación. 
+
+En un futuro con más experiencia adquirida, podré abordar el conjunto de datos desde una perspectiva diferente y obtener insights aún más sólidos, además espero poder integrar más datos para que el análisis este actualizado y sea más preciso.
