@@ -1,9 +1,27 @@
-# Proyecto final Ingresos de los tours de Taylor Switf
-- Google Slides
-- Descripción del proyecto.
-- Queries, scripts de Python y otros recursos empleados.
+# Proyecto final Ingresos de los Tours de Taylor Switf
+
+Quiero dar la bienvenida a mi proyecto final del Bootcamp de Análisis de Datos en Crack the Code y expresar mi profundo agradecimiento a Inchcape Digital por brindarme esta valiosa oportunidad de aprendizaje. Este proyecto representa el punto culminante de mi experiencia de aprendizaje, donde he aplicado mis habilidades en Power BI y Colab para abordar desafíos complejos de análisis de datos. ¡Bienvenido a este viaje de descubrimiento!
+
+# El fenómeno de los conciertos de Taylor Swift
+
+![Taylor](https://www.poderycritica.com/wp-content/uploads/2023/08/Taylor-Swift-02.jpg)
+
+En esta presentación [El fenómeno de los conciertos de Taylor Swift](https://docs.google.com/presentation/d/18iLymKnaVCYQ4UtLDXWTImEkyJGVQuXWvgR6EjD4QRM/edit?usp=sharing) descubriremos cuál ha sido el crecimiento de los ingresos de los Tours de Taylor Swift.
+
+# Descripción del proyecto
+
+A través de un análisis de datos y la visualización de resultados mediante Power BI, profundizaremos en las cifras detrás de los conciertos de Taylor Swift. Descubriremos cuál ha sido el crecimiento de la economía en sus conciertos desde el año 2009 hasta el 2018 donde se llevaron a cabo un total de 5 giras, proporcionando una visión única sobre la economía de sus conciertos a nivel mundial.
+
+- Fearless Tour.
+- Speak now world tour.
+- Red Tour.
+- The 1989 world tour.
+- Reputation stadium tour.
+
+
+# Queries, scripts de Python y otros recursos empleados.
   
-# [Scripts de Python](https://github.com/valenmesa/BootcampADG2/blob/main/Limpieza_Datos.ipynb)
+[Scripts de Python en Colab](https://github.com/valenmesa/BootcampADG2/blob/main/Limpieza_Datos.ipynb)
 
 
 * Importar libreria requerida  <br>
